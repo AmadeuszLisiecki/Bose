@@ -1,0 +1,19 @@
+@import "utils";
+@import "blocks/page-part-container";
+@import "blocks/header/header";
+@import "blocks/header/phone";
+@import "blocks/header/menu";
+@import "blocks/main/recommended";
+@import "blocks/main/button-wrapper";
+@import "blocks/main/categories";
+@import "blocks/main/buy-reasons";
+@import "blocks/main/contact";
+@import "blocks/footer";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
